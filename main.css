@@ -1,0 +1,20 @@
+#boton-verde{
+    background-color: green;
+}
+
+#boton-rojo{
+    background-color: red;
+}
+
+#boton-amarillo{
+    background-color: yellow;
+}
+
+#boton-azul{
+    background-color: blue;
+}
+
+.boton{
+    height: 200px;
+    width: 200px;
+}
